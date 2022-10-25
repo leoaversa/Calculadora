@@ -24,11 +24,13 @@ function App() {
   return (
     <div className="App">
       <div className="react-logo-contenedor">
+      
         <img
           className="react-logo"
           src="logoReact.png"
           alt="logo de React para Calculadora"
         />
+        <h1>React Calculator</h1>
       </div>
 
       <div className="contenedor-calculadora ">
